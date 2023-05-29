@@ -1,8 +1,8 @@
 # <center>Intro to NLP Project</center>
 
 ---
-
-### <center>Aryan Chandramania | Lakshmipathi Balaji | Akshit Kumar </center>  
+## Contributors:
+### <center> Aryan Chandramania | [Lakshmipathi Balaji](https://github.com/kolubex) | [Akshit Kumar](https://github.com/komikat) </center>  
 
 ---
 
@@ -11,9 +11,20 @@ The code is in the form of Python. The code is in the `code` folder.
 
 --- 
 ```bash
-├── Indicbart.py
-├── LSTM.py
-└── mT5.py
+.
+├── code
+│   ├── data_analysis.py
+│   ├── Indicbart.py
+│   ├── LSTM.py
+│   └── mT5.py
+├── data
+│   ├── dev.txt
+│   ├── test.txt
+│   ├── train_pre_analysis.txt
+│   └── train.txt
+├── Presentation.pdf
+├── README.md
+└── Report.pdf
 ```
 
 
